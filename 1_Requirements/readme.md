@@ -7,9 +7,12 @@ INTRODUCTION:
 FEATURES:
 
 
+
 By wearing this device they can fully avoid the use of white cane and such other devices.
 
+
 This device will help the blind to navigate without holding a stick which is a bit annoying for them.
+
 
 They can simply wear it as a band or cloth and it can function very accurately and they only need a very little training to use it.
 
@@ -19,6 +22,8 @@ They can simply wear it as a band or cloth and it can function very accurately a
 COST:
 
 
+
+
 The system is much more efficient and reliable and economically cheap compared to the existing systems.
 
 
@@ -26,34 +31,55 @@ The system is much more efficient and reliable and economically cheap compared t
 SWOT ANALYSIS:
 
 
+
 Strenght:
+
+
 
 By using this device blind person to move around and go from one place to another.
 
+
 Weakness:
+
+
 
 Cannot be carried easily, needs a lot of training to use…
 
+
 Opportunities:
 
+ 
+ 
  Helps the blinds people to navigate with speed and confidence.
  
-Threat:
+ 
+ 
+ Threat:
+
+
 
 In somecase  sensor are unable to detect the objects.
+
+
 
 
 4 W's and 1H:
 
 
+
 WHO:
+
+
 
 This devices can be used by blind people.
 
 
+
 WHEN:
 
-to detect the object infront of the blind people and  also it will notify through speaker
+
+
+To detect the object infront of the blind people and  also it will notify through speaker
 
 
 WHAT:
@@ -61,19 +87,28 @@ WHAT:
 
 Help to guide the blind people and to move safely.
 
+
 WHERE:
+
+
 
 
 To guide the blind people whenever they go outside.
 
 
+
 How:
  
+
+
 Sensors used in this project it will guide the blind people to move safely.
 
 
 
+
 HIGH LEVEL REQUIREMENTS:
+
+
 
 
 
@@ -97,6 +132,8 @@ HIGH LEVEL REQUIREMENTS:
 
 
 LOW LEVEL REQUIREMENTS:
+
+
 
 
             1. ID          : LLR_01
