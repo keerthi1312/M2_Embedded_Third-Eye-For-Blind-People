@@ -1,4 +1,10 @@
-     1.  ULTRASONIC SENSOR
+CIRCUIT CONNECTIONS:
+
+
+![image](https://user-images.githubusercontent.com/68195812/144375377-64cd96fa-8d51-41d7-bf3d-5089eec5eb89.png)
+
+     
+        1.  ULTRASONIC SENSOR
 
 INPUT:  OUTPUT:
 
@@ -11,6 +17,8 @@ INPUT:  OUTPUT:
       2.  PIR SENSOR:
       
 INPUT:   OUTPUT:
+
+
 ![image](https://user-images.githubusercontent.com/68195812/144357528-d94be3d9-b9cf-46a4-9daa-ea46f654973a.png)
 ![image](https://user-images.githubusercontent.com/68195812/144357600-61d55f28-b275-4e76-8d0d-b319b0318b18.png)
 
