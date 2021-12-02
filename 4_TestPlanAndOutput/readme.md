@@ -7,8 +7,8 @@ TEST PLAN AND OUTPUT:
 |          |   Ultrasonic sensor   |       12 cm       |       12 cm      |     12cm       |  LED- Off, LCD-  Obstacle not detect  | 
 |   H_02   |   PIR  sensor   |       10 cm       |       10cm       |     10cm       |  LED- Glow, LCD - PIR sensor detect |         
 |          |   PIR   sensor   |       12 cm       |       12 cm      |     12cm       |  LED- Off, LCD-  PIR sensor not detect  | 
-|   H_03   |   MEMS sensor   |      0g-Detect      |      0g-Detect     |     0g-Detect       |  LED- Glow, LCD - Person detect         
-|          |   MEMS sensor   |       2g-Detect     |       2g-Detect     |     2g-Detect      |  LED- Off, LCD-  Person not detect  |  
+|   H_03   |   MEMS sensor   |      0g-Detect      |      0g-Detect     |     0g-Detect       |  LED- Glow, LCD - Fall detect         
+|          |   MEMS sensor   |       2g-Detect     |       2g-Detect     |     2g-Detect      |  LED- Off, LCD-  Fall not detect  |  
 
 
 
